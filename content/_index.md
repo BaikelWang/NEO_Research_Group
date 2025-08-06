@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: 王逸轩
+ * @Date: 2025-08-07 00:06:42
+ * @LastEditors: 王逸轩
+ * @LastEditTime: 2025-08-07 03:50:06
+-->
 ---
 # Leave the homepage title empty to use the site title
 title:
@@ -17,6 +25,8 @@ sections:
 
 
         <关于课题组的介绍>
+
+        1231312313131231
   
   - block: collection
     content:
