@@ -8,14 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Nanophotonics Enhanced Optoelectronics
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        南京邮电大学材料与工程学院高丽课题组
+
+
+        <关于课题组的介绍>
   
   - block: collection
     content:
@@ -38,14 +39,14 @@ sections:
   
   - block: markdown
     content:
-      title:
+      title: 
       subtitle: ''
       text:
     design:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: iam.jpg
           filters:
             brightness: 1
           parallax: false
