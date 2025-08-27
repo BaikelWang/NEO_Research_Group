@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 主页
 date: 2022-10-24
 type: landing
 
@@ -15,7 +15,7 @@ sections:
         <br>
         南京邮电大学材料与工程学院高丽课题组
 
-        66666666666666666666666
+        此处应有文字内容
 
 
         <关于课题组的介绍>
