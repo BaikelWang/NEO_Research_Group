@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
-
+title: 唐泽民
+cixu: 0
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Huijuan
+last_name: Zhao
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 赵慧娟
 
 # Is this the primary user of the site?
 superuser: false
@@ -70,8 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Grad Students
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
