@@ -3,8 +3,8 @@
 title: 王安冉
 cixu: 3
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Anran 
+last_name:  Wang
 
 # Username (this should match the folder name)
 authors:
