@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 唐泽民
+title: 曹欣怡
 # Full name (for SEO)
 first_name: 
 last_name: 
 
 # Username (this should match the folder name)
 authors:
-  - 唐泽民
+  - 曹欣怡
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,17 +24,14 @@ organizations:
 bio: 
 
 interests:
-  - 二维有机/无机异质结非线性光学机制研究
+  - 纳米压印技术
 
 
 education:
   courses:
-    - course: 工学学士
-      institution: 北方工业大学
-      year: 2019-2023
     - course: 光学工程硕士，材料与工程学院
       institution: 南京邮电大学
-      year: 2023至今
+      year: 2020.9--2023.6
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,17 +49,13 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Previous graduates
 
 ---
-邮箱： 
-3046524593@qq.com
+专业：生物电子
 
-研究成果：
-- Science Advances/国内授权专利（学生一作）
+毕业去向：私企工作
 
-获奖情况：
-- 校级三等奖
 
 
 
