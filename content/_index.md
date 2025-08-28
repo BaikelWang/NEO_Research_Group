@@ -8,17 +8,23 @@ sections:
   - block: hero
     content:
       title: |
-        Nanophotonics Enhanced Optoelectronics
-      image:
+        **Nanophotonics Enhanced Optoelectronics**
+      image: 
         filename: welcome.jpg
       text: |
-        <br>
-        南京邮电大学材料与工程学院高丽课题组
+        南京邮电大学材料与工程学院高丽课题组  
+        研究方向：  
+        <font face="times" size=4>
+        - Metasurface integrated two-dimensional optoelectronic devices
+        - Deep learning enabled metasurface device design and sensing applications
+        - Fabrication and application of flexible and tunable nanophotonic devices 
 
-        此处应有文字内容
+        </font>
+
+        
 
 
-        <关于课题组的介绍>
+        
 
         
   
