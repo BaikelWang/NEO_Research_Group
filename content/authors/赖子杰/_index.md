@@ -4,7 +4,7 @@ title: 赖子杰
 # Full name (for SEO)
 first_name: 
 last_name: 
-
+cixu: 4
 # Username (this should match the folder name)
 authors:
   - 赖子杰

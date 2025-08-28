@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+    - course: 学士，硕士
+      institution: 山东建筑大学
+      year: 2016-2023
     - course: 理学博士，理学院
       institution: 南京邮电大学
       year: 2023至今
@@ -52,5 +55,5 @@ user_groups:
   - Grad Students
 
 ---
-
+邮箱：wangsumei1997@163.com
 
