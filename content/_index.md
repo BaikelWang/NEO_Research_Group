@@ -13,12 +13,14 @@ sections:
         filename: welcome.jpg
       text: |
         南京邮电大学材料与工程学院高丽课题组  
-        研究方向：  
-        <font face="times" size=4>
-        - Metasurface integrated two-dimensional optoelectronic devices
-        - Deep learning enabled metasurface device design and sensing applications
-        - Fabrication and application of flexible and tunable nanophotonic devices 
 
+        <font face="times" size=4>
+        研究课题方向:
+
+        * Metasurface integrated two-dimensional optoelectronic devices
+        * Deep learning enabled metasurface device design and sensing applications
+        * Fabrication and application of flexible and tunable nanophotonic devices 
+        
         </font>
 
         
