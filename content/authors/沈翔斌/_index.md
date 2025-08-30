@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+    - course: 工学学士
+      institution: 运城大学
+      year: 2020-2024
     - course: 电子信息硕士，材料与工程学院
       institution: 南京邮电大学
       year: 2024至今
@@ -52,6 +55,8 @@ user_groups:
   - Grad Students
 
 ---
+邮箱：
+13157458972@163.com
 
 
 
