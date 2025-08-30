@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 沈翔斌
+title: 丁焕林
 # Full name (for SEO)
 first_name: 
 last_name: 
 cixu: 4
 # Username (this should match the folder name)
 authors:
-  - 沈翔斌
+  - 丁焕林
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,17 +24,18 @@ organizations:
 bio: 
 
 interests:
-  - 有机无机二维半导体气相外延生长
+  - 光学工程
+
 
 
 education:
   courses:
-    - course: 工学学士
-      institution: 运城大学
-      year: 2020-2024
-    - course: 电子信息硕士，材料与工程学院
+    - course: 特种玻璃
+      institution: 嘉应学院
+      year: 2019-2023
+    - course: 光学工程硕士，材料与工程学院
       institution: 南京邮电大学
-      year: 2024至今
+      year: 2023至今
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -55,8 +56,11 @@ user_groups:
   - Grad Students
 
 ---
-邮箱：
-13157458972@163.com
+邮箱： 
+1697145794@qq.com
+
+
+
 
 
 
