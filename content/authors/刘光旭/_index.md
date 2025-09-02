@@ -24,13 +24,13 @@ organizations:
 bio: 
 
 interests:
-  - 超表面/光谱仪
+  - 超表面光谱仪
 
 
 education:
   courses:
     - course: 工学学士
-      institution: 
+      institution: 哈尔滨工程大学
       year: 2020-2024
     - course: 光学工程硕士，材料与工程学院
       institution: 南京邮电大学
