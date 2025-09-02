@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: 讲师
 
 # Organizations/Affiliations
 organizations:
