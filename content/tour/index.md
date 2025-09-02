@@ -48,6 +48,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#666'
+      - title: Cary 5000
+        content: Cary 5000是一款高性能紫外-可见-近红外分光光度计，在190-3300nm范围内具有优异的光度性能，这使其成为用于材料科学研究的一款功能强大的工具。大样品室经过扩展可以容纳用于光谱和漫反射测试的大附件和积分球。锁定机械装置实现了快速更换和定位附件，从而获得可重现的分析结果。
+        align: center
+        background:
+          image:
+            filename: cary5000.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#666'
       - title: Nanophotonics Enhanced Optoelectronics
         content: 'Welcome to join us!'
         align: right
