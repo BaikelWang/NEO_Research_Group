@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: 光学工程硕士，材料与工程学院
+    - course: 生物电子硕士，材料与工程学院
       institution: 南京邮电大学
       year: 2020.9--2023.6
 
@@ -52,7 +52,7 @@ user_groups:
   - Previous graduates
 
 ---
-专业：生物电子
+专业：
 
 毕业去向：私企工作
 
