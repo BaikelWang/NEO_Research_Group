@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 曹欣怡
+title: 张智骁
 # Full name (for SEO)
 first_name: 
 last_name: 
 
 # Username (this should match the folder name)
 authors:
-  - 曹欣怡
+  - 张智骁
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,14 +24,15 @@ organizations:
 bio: 
 
 interests:
-  - 纳米压印技术
+  - 可见光及近红外波段的编码超表面方法研究
+  
 
 
 education:
   courses:
-    - course: 生物电子硕士，材料与工程学院
+    - course: 电子信息硕士，材料与工程学院
       institution: 南京邮电大学
-      year: 2020.9--2023.6
+      year: 2021.9-2024.6
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,10 +53,12 @@ user_groups:
   - Previous graduates
 
 ---
-专业：
-
-毕业去向：私企工作
+毕业去向：华为技术有限公司
 
 
+成果：2-bit coding metasurface with a double layer random flip structure for wide band diffuse reflection and reciprocity protected transmission
+
+
+获奖：一次二等奖学金，两次三等奖学金
 
 

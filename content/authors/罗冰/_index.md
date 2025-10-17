@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 曹欣怡
+title: 罗冰
 # Full name (for SEO)
 first_name: 
 last_name: 
 
 # Username (this should match the folder name)
 authors:
-  - 曹欣怡
+  - 罗冰
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,14 +24,14 @@ organizations:
 bio: 
 
 interests:
-  - 纳米压印技术
+  - 二维材料有机生长，二维材料转移方法
 
 
 education:
   courses:
-    - course: 生物电子硕士，材料与工程学院
+    - course: 电子信息硕士，材料与工程学院
       institution: 南京邮电大学
-      year: 2020.9--2023.6
+      year: 2021.9-2024.6
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,9 +52,7 @@ user_groups:
   - Previous graduates
 
 ---
-专业：
-
-毕业去向：私企工作
+毕业去向：中兴通讯
 
 
 

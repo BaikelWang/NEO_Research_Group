@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 曹欣怡
+title: 王玮奇
 # Full name (for SEO)
 first_name: 
 last_name: 
 
 # Username (this should match the folder name)
 authors:
-  - 曹欣怡
+  - 王玮奇
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,14 +24,14 @@ organizations:
 bio: 
 
 interests:
-  - 纳米压印技术
+  - 光电子器件
 
 
 education:
   courses:
-    - course: 生物电子硕士，材料与工程学院
+    - course: 光学工程硕士，材料与工程学院
       institution: 南京邮电大学
-      year: 2020.9--2023.6
+      year: 2022.9-2025.6
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,10 +52,12 @@ user_groups:
   - Previous graduates
 
 ---
-专业：
-
-毕业去向：私企工作
+毕业去向：华为技术有限公司
 
 
+成果：一篇论文（sci2区、南邮1区），一项授权专利
+
+
+获奖：互联网+省级银奖、三次三等奖学金
 
 

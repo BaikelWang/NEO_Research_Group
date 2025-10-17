@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 曹欣怡
+title: 张昊旻
 # Full name (for SEO)
 first_name: 
 last_name: 
 
 # Username (this should match the folder name)
 authors:
-  - 曹欣怡
+  - 张昊旻
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,14 +24,15 @@ organizations:
 bio: 
 
 interests:
-  - 纳米压印技术
+  - 超表面与深度学习在光学中的应用
+  
 
 
 education:
   courses:
-    - course: 生物电子硕士，材料与工程学院
+    - course: 光学工程硕士，材料与工程学院
       institution: 南京邮电大学
-      year: 2020.9--2023.6
+      year: 2021.9-2024.6
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,10 +53,12 @@ user_groups:
   - Previous graduates
 
 ---
-专业：
-
-毕业去向：私企工作
+毕业去向：电子科大读博
 
 
+成果：nanophotonics论文一篇，专利授权一篇，专利受理一篇
+
+
+获奖：国家奖学金，挑战杯特等奖，互联网+三等奖
 
 
