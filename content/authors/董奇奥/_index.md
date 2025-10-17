@@ -1,13 +1,15 @@
 ---
 # Display name
-title: 曹欣怡
+title: 董奇奥
+
 # Full name (for SEO)
 first_name: 
 last_name: 
 
 # Username (this should match the folder name)
 authors:
-  - 曹欣怡
+  - 董奇奥
+  
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,14 +26,15 @@ organizations:
 bio: 
 
 interests:
-  - 纳米压印技术
+  - 基于神经网络算法的超表面设计与表征
+  
 
 
 education:
   courses:
-    - course: 生物电子硕士，材料与工程学院
+    - course: 电子信息硕士，材料与工程学院
       institution: 南京邮电大学
-      year: 2020.9--2023.6
+      year: 2020.9-2023.6
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,10 +55,19 @@ user_groups:
   - Previous graduates
 
 ---
-专业：
+毕业去向：科研院所
 
-毕业去向：私企工作
+成果：
 
+[1]Dong Q, Wang W, Cao X, et al. Plasmonic nanostructure characterized by deep-neural-network-assisted spectroscopy[J]. Chinese Optics Letters, 2023, 21(1):010004.； 
+
+[2]Zhao H, Cao X, Dong Q, et al. Large-area silicon photonic crystal supporting bound states in the continuum and optical sensing formed by nanoimprint lithography[J]. Nanoscale Advances, 2023, 5(5): 1291-1298.； 
+
+[3]Wang W, Dong Q, Zhang Z, et al. Inverse design of photonic crystal filters with arbitrary correlation and size for accurate spectrum reconstruction[J]. Applied Optics, 2023, 62(8): 1907-1914.； 
+
+[4]Cao X, Xiao Y, Dong Q, et al. Tuning metasurface dimensions by soft nanoimprint lithography and reactive ion etching[J]. Advanced Photonics Research, 2022, 3(11): 2200127.  
+
+[5]Wu Q, Li X, Wang W, et al. Comparison of different neural network architectures for plasmonic inverse design[J]. ACS omega, 2021, 6(36): 23076-23082.
 
 
 

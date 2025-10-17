@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 曹欣怡
+title: 蔡鹏程
 # Full name (for SEO)
 first_name: 
 last_name: 
-
+cixu: 5
 # Username (this should match the folder name)
 authors:
-  - 曹欣怡
+  - 蔡鹏程
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,14 +24,17 @@ organizations:
 bio: 
 
 interests:
-  - 纳米压印技术
+  - 二维异质结光电器件
 
 
 education:
   courses:
-    - course: 生物电子硕士，材料与工程学院
+    - course: 光电信息科学与工程
       institution: 南京邮电大学
-      year: 2020.9--2023.6
+      year: 
+    - course: 光学工程硕士，材料与工程学院
+      institution: 南京邮电大学
+      year: 2025至今
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,12 +52,12 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Previous graduates
+  - Grad Students
 
 ---
-专业：
 
-毕业去向：私企工作
+
+
 
 
 

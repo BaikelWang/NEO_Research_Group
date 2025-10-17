@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 曹欣怡
+title: 曹浩
 # Full name (for SEO)
 first_name: 
 last_name: 
 
 # Username (this should match the folder name)
 authors:
-  - 曹欣怡
+  - 曹浩
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,14 +24,15 @@ organizations:
 bio: 
 
 interests:
-  - 纳米压印技术
+  - 深度学习在比色传感和二维材料层数表征中的应用研究
+  
 
 
 education:
   courses:
-    - course: 生物电子硕士，材料与工程学院
+    - course: 电子信息硕士，材料与工程学院
       institution: 南京邮电大学
-      year: 2020.9--2023.6
+      year: 2021.9-2024.6
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,10 +53,12 @@ user_groups:
   - Previous graduates
 
 ---
-专业：
-
-毕业去向：私企工作
+毕业去向：深圳市电信
 
 
+成果：基于深度学习的可穿戴热致变色液晶阵列温度识别专利公开
+
+
+获奖：获得第九届江苏省“互联网+”大学生创新创业大赛产业赛道团队二等奖。  项目名称：光谱新芯——用于增强传感灵敏度的超表面芯片
 
 

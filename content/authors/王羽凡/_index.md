@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 曹欣怡
+title: 王羽凡
 # Full name (for SEO)
 first_name: 
 last_name: 
 
 # Username (this should match the folder name)
 authors:
-  - 曹欣怡
+  - 王羽凡
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,14 +24,14 @@ organizations:
 bio: 
 
 interests:
-  - 纳米压印技术
+  - 光电子器件
 
 
 education:
   courses:
-    - course: 生物电子硕士，材料与工程学院
+    - course: 光学工程硕士，材料与工程学院
       institution: 南京邮电大学
-      year: 2020.9--2023.6
+      year: 2022.09-2025.07
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,9 +52,12 @@ user_groups:
   - Previous graduates
 
 ---
-专业：
+毕业去向：
+成果： 
 
-毕业去向：私企工作
+[1] Yufan Wang, et al. ReS₂/MoSe₂ van der Waals heterostructure photodetectors for  polarization imaging and polarization-encoded optical communication.  
+
+[2] Huijuan Zhao, Yufan Wang, et al. Fast and high-responsivity MoS2/MoSe2 heterostructure  photodetectors enabled by van der Waals contact interfaces[J]. Applied Physics Letters, 2024,  125(03): 033120.
 
 
 
