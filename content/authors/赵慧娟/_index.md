@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 赵慧娟
+title: Huijuan Zhao 赵慧娟
 cixu: 0
 # Full name (for SEO)
 first_name: Huijuan
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士生导师
+role: 副教授
 
 # Organizations/Affiliations
 organizations:

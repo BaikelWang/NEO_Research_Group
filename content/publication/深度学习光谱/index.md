@@ -3,11 +3,11 @@ title: "Snapshot computational spectroscopy enabled by deep learning"
 authors:
 - Haomin Zhang
 - Quan Li
-- Huijuan Zhao
+- 赵慧娟
 - Bowen Wang
 - Jiaxing Gong
 - Zhixiao Zhang
-- Li Gao
+- 高丽
 author_notes:
   - ''
   - ''
