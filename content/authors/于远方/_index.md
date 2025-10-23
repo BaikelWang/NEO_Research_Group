@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 于远方
+title: Yuanfang Yu 于远方
 cixu: 1
 # Full name (for SEO)
 first_name: Alice
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 校长专聘副教授
+role: 副教授
 
 # Organizations/Affiliations
 organizations:

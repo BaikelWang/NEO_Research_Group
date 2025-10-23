@@ -3,7 +3,7 @@ title: "Multifunctional metasurface coding for visible vortex beam generation, d
 authors:
 - Run Tian
 - Zhixiao Zhang
-- Li Gao
+- 高丽
 author_notes:
   - ''
   - ''
@@ -29,7 +29,6 @@ abstract: <font face='times'>Vortex beams, as beams carrying orbital angular mom
 summary: 
 
 tags:
-- Source Themes
 - orbital angular momentum
 - coding metasurface
 - multifunction
