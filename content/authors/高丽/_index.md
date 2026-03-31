@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Li Gao 高丽
+title: 高丽
 
 # Full name (for SEO)
 first_name: Li
@@ -12,7 +12,7 @@ authors:
   - 高丽
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Professor, State Key Laboratory of Flexible Electronics

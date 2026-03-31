@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shilei Ji 季石磊
+title: 季石磊
 cixu: 4
 # Full name (for SEO)
 first_name: Shilei

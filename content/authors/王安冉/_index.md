@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anran Wang 王安冉
+title: 王安冉
 cixu: 3
 # Full name (for SEO)
 first_name: Anran 

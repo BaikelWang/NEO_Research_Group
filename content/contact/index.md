@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        需要联系我们，请留言！
+        需要联系我们，请使用邮箱发送邮件！
       email: iamlgao@njupt.edu.cn
       phone: # 888 888 88 88
       address:

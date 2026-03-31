@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Huijuan Zhao 赵慧娟
+title: |
+  赵慧娟
 cixu: 0
 # Full name (for SEO)
 first_name: Huijuan

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuanfang Yu 于远方
+title: 于远方
 cixu: 1
 # Full name (for SEO)
 first_name: Alice

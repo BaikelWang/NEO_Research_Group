@@ -8,12 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        **Nanophotonics Enhanced Optoelectronics**
+        <img src="icon.png" >
       image: 
-        filename: welcome.jpg
+        filename: w.png
       text: |
-        南京邮电大学材料与工程学院高丽课题组  
-
         <font face="times" size=4>
         研究课题方向:
 
@@ -22,13 +20,6 @@ sections:
         * Fabrication and application of flexible and tunable nanophotonic devices 
         
         </font>
-
-        
-
-
-        
-
-        
   
   - block: collection
     content:
