@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: 'NJUPT'
-    description: '南京邮电大学柔性电子全国重点实验室高丽课题组'
+    description: '南京邮电大学微纳光电集成研究团队'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year}. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
