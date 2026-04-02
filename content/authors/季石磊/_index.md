@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 讲师
+role: 预聘副教授
 
 # Organizations/Affiliations
 organizations:
@@ -26,7 +26,7 @@ bio:
 interests:
   - 二维异质结界面上，Orbital Torque、Spin-orbital Torque等产生和传输的动力学过程
   - 线性/非线性光学诱导轨道角动量、自旋角动量的输运
-  - 轻金属材料中的自旋/轨道霍尔效应，磁阻
+  - 拓扑磁振子中的轨道角动量输运及调控
   - 图神经网络预言材料哈密顿量、磁学性质、电输运
 
 education:
@@ -63,32 +63,39 @@ user_groups:
   - Researchers
 ---
 
-南京邮电大学讲师，江苏省物理学会、材料学会会员。2024年本硕博毕业于南京邮电大学材料科学与工程学院。从事二维材料拓扑输运方向的研究。近年来，以主要贡献者和合作者的身份在Phys. Rev. B, Chin. Phys. Lett., Nano Energy, Sci. China Mater., Nano-Micro Lett.等期刊上发表论文二十余篇，其中以第一及共一作者身份发表9篇，包括7篇Phys. Rev. B(6篇一作，1篇共一)。 此外理论与实验相结合的工作共7篇（理论分析的主要贡献人）。现为Phys. Rev. Lett、Phys. Rev. B、Commun. Mat.和Nat. Commun.的审稿人。
+南京邮电大学预聘副教授，江苏省物理学会、材料学会会员。2024年本硕博毕业于南京邮电大学材料科学与工程学院。从事二维材料拓扑输运方向的研究。近年来，以主要贡献者和合作者的身份在Phys. Rev. B, Chin. Phys. Lett., Nano Energy, Sci. China Mater., Nano-Micro Lett.等期刊上发表论文三十余篇，其中以第一及通讯作者身份发表十余篇，包括7篇Phys. Rev. B。现为Phys. Rev. Lett.、Phys. Rev. B、Commun. Mat.和Nat. Commun.等主流期刊的审稿人。ORCID主页：https://orcid.org/0000-0002-8781-0609。
 
 ### 科研项目
-1.	江苏省研究生科研与实践创新计划，基于二维磁电效应的新型存储器件（KYCX20_0748），主持。
-2.	南京邮电大学启动基金，轨道极化电流的产生及能谷调控研究（XK0070924076），主持。
-3.	国家自然基金面上项目，MA2Z4层状材料及其范德华异质结器件的能谷极化操控机制研究（62174088），参与。
-4.	国家自然基金联合基金项目，二维铁磁材料中自旋波行为的铁磁共振和纯自旋调控研究（U1932159），参与。
-5.	江苏省高校自然科学研究面上项目，基于二维阻挫范德华磁性材料电子平带强磁耦合机理研究（21KJD140005），参与。
+1.  国家自然基金青年科学项目c类，基于二维高阶拓扑绝缘体的轨道霍尔效应和光场调控理论研究（GZ225022），主持。
+2.	南京邮电大学启动基金，轨道极化电流的产生及能谷调控研究（NY224076），主持。
+3.	江苏省研究生科研与实践创新计划，基于二维磁电效应的新型存储器件（KYCX20_0748），主持。
+4.	国家自然基金面上项目，MA2Z4层状材料及其范德华异质结器件的能谷极化操控机制研究（62174088），参与。
+5.	国家自然基金联合基金项目，二维铁磁材料中自旋波行为的铁磁共振和纯自旋调控研究（U1932159），参与。
+6.	江苏省高校自然科学研究面上项目，基于二维阻挫范德华磁性材料电子平带强磁耦合机理研究（21KJD140005），参与。
 ### 获奖情况
-1.	层状范德华材料中磁各向异性和维度的关系 （获口头报告二等奖）
-江苏省研究生“凝聚态物理前沿”学术创新论坛，口头汇报，江苏南京，2022 
+1.  一种用于晶体物理性质预测的结构感知图神经网络通用模型 （三等奖）
+“华为杯”第七届中国研究生人工智能创新大赛，指导教师，2025
 2.	层状范德华材料中磁各向异性和维度的关系 （获口头报告二等奖）
-江苏省研究生前沿物理与交叉科学学术创新论坛，口头汇报，江苏南京，2022 
-3.	镜面对称性破缺引起的多种霍尔效应 （获优秀报告奖）
-第六届江苏物理春季会议，口头汇报，江苏南京，2023
-4.	轨道霍尔绝缘体中方向可调的轨道霍尔电导及其拓扑量子态 （获优秀报告奖）
-第七届江苏物理春季会议，口头汇报，江苏苏州，2024
-### 研究成果
+江苏省研究生“凝聚态物理前沿”学术创新论坛，汇报人，江苏南京，2022 
+3.	层状范德华材料中磁各向异性和维度的关系 （获口头报告二等奖）
+江苏省研究生前沿物理与交叉科学学术创新论坛，汇报人，江苏南京，2022 
+4.	镜面对称性破缺引起的多种霍尔效应 （获优秀报告奖）
+第六届江苏物理春季会议，汇报人，江苏南京，2023
+5.	轨道霍尔绝缘体中方向可调的轨道霍尔电导及其拓扑量子态 （获优秀报告奖）
+第七届江苏物理春季会议，汇报人，江苏苏州，2024
+### 研究成果（一作和通讯）
 <font face='times'>
 
-1. Shilei Ji, et al. The valley-contrasting transport of the coupling between spin and orbital angular momentum in ferromagnetic transition metal dichalcogenides, Phys. Rev. B, 2024, 110, 075418. (一作)
-2.	Weiyi Pan, Shilei Ji, et al. Strain-induced intrinsic antiferromagnetic skyrmions in two-dimensional Janus magnets, Phys. Rev. B, 2024, 110, 144408. (共同一作)
-3.	Shilei Ji, et al. Reversal of orbital Hall conductivity and emergence of tunable topological quantum states in orbital Hall insulator, Phys. Rev. B, 2024, 109, 155407. (一作)
-4.	Shilei Ji, et al. Observing topological phase transition in ferromagnetic transition metal dichalcogenides, Phys. Rev. B, 2023, 108, 224422. (一作)
-5.	Shilei Ji, et al. Anomalous valley Hall effect induced by mirror symmetry breaking in transition metal dichalcogenides, Phys. Rev. B, 2023, 107, 174434. (一作)
-6.	Shilei Ji, et al. Dimension-dependent magnetic anisotropy for tunable anomalous Hall effect in transition metal dichalcogenides, Phys. Rev. B, 2023, 107, 035438. (一作)
-7.	Shilei Ji, et al. Tunable magnetoelectric coupling and electrical features in an ultrathin Cr2Si2Te6/In2Se3 heterostructure, Phys. Chem. Chem. Phys., 2022, 24, 3200. (一作)
-8.	Shilei Ji, et al. Enhancement of curie temperature under built-in electric field in multi-functional Janus vanadium dichalcogenides, Chin. Phys. Lett., 2020, 37, 087505. (一作)
+1. Shilei Ji, et al. Tunable orbital thermoelectric transport with spin-valley coupling in a monolayer of ferromagnetic transition metal dichalcogenides, Phys. Rev. B, 2025, 111, 235417. (一作)
+2. Chen Chen, Shilei Ji*, et al. Strain-modulated valley polarization and piezomagnetic effects in altermagnetic Cr2S2, Appl. Phys. Lett., 2025, 127, 102409. (通讯)
+3. Shilei Ji, et al. The valley-contrasting transport of the coupling between spin and orbital angular momentum in ferromagnetic transition metal dichalcogenides, Phys. Rev. B, 2024, 110, 075418. (一作)
+4.	Weiyi Pan, Shilei Ji, et al. Strain-induced intrinsic antiferromagnetic skyrmions in two-dimensional Janus magnets, Phys. Rev. B, 2024, 110, 144408. (共一)
+5.	Shilei Ji, et al. Reversal of orbital Hall conductivity and emergence of tunable topological quantum states in orbital Hall insulator, Phys. Rev. B, 2024, 109, 155407. (一作)
+6.	Shilei Ji, et al. Observing topological phase transition in ferromagnetic transition metal dichalcogenides, Phys. Rev. B, 2023, 108, 224422. (一作)
+7.	Shilei Ji, et al. Anomalous valley Hall effect induced by mirror symmetry breaking in transition metal dichalcogenides, Phys. Rev. B, 2023, 107, 174434. (一作)
+8.	Shilei Ji, et al. Dimension-dependent magnetic anisotropy for tunable anomalous Hall effect in transition metal dichalcogenides, Phys. Rev. B, 2023, 107, 035438. (一作)
+9.	Shilei Ji, et al. Tunable magnetoelectric coupling and electrical features in an ultrathin Cr2Si2Te6/In2Se3 heterostructure, Phys. Chem. Chem. Phys., 2022, 24, 3200. (一作)
+10.	Shilei Ji, et al. Enhancement of curie temperature under built-in electric field in multi-functional Janus vanadium dichalcogenides, Chin. Phys. Lett., 2020, 37, 087505. (一作)
+11. Xing-Liang Xu, Shilei Ji*, et al. Tunable electronic structure and magnetism via rare-earth doping and biaxial strain in 4f-electron based gadolinium chloride monolayer, J. Alloy. Compd., 2026, 105, 185737. (通讯)
+12. Yile Wang, Shilei Ji*, et al. Magnetic Anisotropy of Cr2Te3: Competition between Surface and Middle Layers, Phys. Status. Solidi. (b), 2025, 262, 2400308. (通讯)
 </font>
