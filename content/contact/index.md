@@ -16,7 +16,7 @@ sections:
         street: 栖霞区文苑路9号
         city: 南京市
         region: 江苏省
-        postcode: '94305'
+        postcode: '210023'
         country: 中国
         country_code: zh
       coordinates:
@@ -36,9 +36,14 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: True
     
-      # Email form provider (disabled: GitHub Pages has no Netlify backend)
+      # Email form provider
       form:
-        provider: ''
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
     design:
       columns: '1'
 
