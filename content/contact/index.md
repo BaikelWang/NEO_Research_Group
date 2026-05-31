@@ -16,7 +16,7 @@ sections:
         street: 栖霞区文苑路9号
         city: 南京市
         region: 江苏省
-        postcode: '94305'
+        postcode: '210023'
         country: 中国
         country_code: zh
       coordinates:
