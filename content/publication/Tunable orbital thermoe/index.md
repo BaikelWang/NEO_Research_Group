@@ -22,24 +22,24 @@ publishDate: "2025-04-08T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*PhysRevB*"
+publication: "*Physical Review B*"
 publication_short: ""
 
 abstract: <font face='times'>The valley transport of electrons can carry not only charge but also spin angular momentum and orbital angular momentum (OAM). However, investigations on thermoelectric transport of OAM manipulated by valley degrees of freedom remain limited. Here, using the ferromagnetic transition metal dichalcogenides RuCl2 as an example, we investigate valley-contrasting Berry curvature and demonstrate its role in generating valley-dependent anomalous and orbital Nernst effects. The thermoelectric transport of OAM is shown to be modulated by intrinsic spin polarization and exhibits characteristics of valley-orbital coupling. Furthermore, we show that spin-valley coupling plays a crucial role in controlling the orbital Nernst effect and distinguishing it from the anomalous Nernst effect. Based on these findings, we propose a thermoelectric transport mechanism for generating pure orbital currents.</font>
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "The valley transport of electrons can carry not only charge but also spin angular momentum and orbital angular momentum (OAM). However, investigations on thermoelectric transport of OAM manipulated by valley degrees of f..."
 
 tags:
-- OAM
-- RuCl2
-- orbital Nernst effects
--  intrinsic spin polarization
+- orbital angular momentum
+- thermoelectric transport
+- spin-valley coupling
+- TMDs
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: DOI
+  url: https://doi.org/10.1103/PhysRevB.111.235417
 url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.111.235417
 url_code: ''
 url_dataset: ''
@@ -68,5 +68,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---

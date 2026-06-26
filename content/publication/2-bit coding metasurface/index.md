@@ -7,7 +7,7 @@ author_notes:
   - ''
   - 'Corresponding Author'
 date: "2023-09-25T00:00:00Z"
-doi: "https://doi.org/10.1364/oe.501272"
+doi: "10.1364/oe.501272"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-08T00:00:00Z"
@@ -24,19 +24,20 @@ publication_short: ""
 abstract: <font face='times'>Coding metasurfaces based on random-flip structures have attracted great attention due to their ability to achieve distortion-free transmission and diffuse reflection simultaneously. However, previous implementation based on 1-bit coding metasurface has a narrow bandwidth and insufficient bandwidth coverage in the near infrared region. Here, we propose a novel vertical 2-bit coding metasurface composed of double-layer random-flip meta-atoms (DLRFM). while the main transmission lobe is unchanged, the zero-order diffraction intensity of DLRFM's reflection direction is less than 10% of the total reflection in the range of 0°∼ 30° incidence angle, which proves its excellent diffuse reflection and distortion-free transmission effect. Such design strategy can be extended to multiple wide band coverage in near-infrared regime by tailoring the geometric parameters, which indicates good application potential in advanced display and lens designs.</font>
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "Coding metasurfaces based on random-flip structures have attracted great attention due to their ability to achieve distortion-free transmission and diffuse reflection simultaneously. However, previous implementation base..."
 
 tags:
-- 
-- 
-- 
+- coding metasurface
+- diffuse reflection
+- near-infrared
+- metasurface
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 
+links:
+- name: DOI
+  url: https://doi.org/10.1364/oe.501272
+url_pdf: https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-20-32253&seq=0
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,5 +65,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---

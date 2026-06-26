@@ -40,18 +40,19 @@ publication_short: ""
 abstract: <font face='times'>Two dimensional (2D) materials with anisotropic optoelectronic properties provide a feasible solution for polarization photodetectors, however, it is challenging to achieve simultaneous high responsivity, fast photoresponse, and good anisotropic ratio of the photocurrent (Iph-max/Iph-min). In this work, a polarization-sensitive photodetector based on ReS2/MoSe2 van der Waals heterostructures is constructed for type-II energy band alignment with a clean contact interface. Under 532 nm laser irradiation, the photodetector has both high responsivity (89.4 A W−1), high-speed response (≈30.5 µs/≈36.2 µs), and high anisotropy ratio of 3.23. The performance of the device has been enhanced for multifunctional applications, including single-pixel polarization imaging and encrypted optical communication by combining Morse code with polarization encoding, demonstrating its potential in polarization-related optical information applications.</font>
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "Two dimensional (2D) materials with anisotropic optoelectronic properties provide a feasible solution for polarization photodetectors, however, it is challenging to achieve simultaneous high responsivity, fast photorespo..."
 
 tags:
-- Two dimensional (2D) materials
-- polarization photodetectors
-- heterostructures
+- ReS2
+- MoSe2
+- polarization photodetector
+- van der Waals heterostructure
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: DOI
+  url: https://doi.org/10.1002/smll.202503599
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/smll.202503599
 url_code: ''
 url_dataset: ''
@@ -80,5 +81,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---

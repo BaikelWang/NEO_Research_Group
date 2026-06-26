@@ -8,8 +8,9 @@ authors:
 - Zemin Tang
 - Shuhan Li
 - Jiaxuan Wang
+- 王羽凡
 - Qiyuan Zhou
-- Anran Wang
+- 王安冉
 - 于远方
 - 高丽
 author_notes:
@@ -22,10 +23,11 @@ author_notes:
   - ''
   - ''
   - ''
+  - ''
   - 'Corresponding Author'
   - 'Corresponding Author'
 date: "2025-06-20T00:00:00Z"
-doi: "https://doi.org/10.1007/s11432-025-4362-7"
+doi: "10.1007/s11432-025-4362-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-08T00:00:00Z"
@@ -39,22 +41,24 @@ publication_types: ["article-journal"]
 publication: "*Science China Information Sciences*"
 publication_short: ""
 
-abstract: <font face='times'></font>
+abstract: <font face='times'>Two-dimensional transition metal dichalcogenides such as WS2 are promising for high-performance photodetectors, but their atomically thin geometry limits optical absorption. Here, we integrate multilayer WS2 with dielectric metasurfaces to enhance light trapping and photodetector performance. An asymmetric Fabry-Perot cavity configuration and dielectric metasurface resonance are combined to strengthen light-matter interaction in the visible regime. The devices are fabricated using soft nanoimprint lithography, enabling scalable integration of nanophotonic structures with 2D semiconductors. This work provides a practical strategy for improving 2D photodetector performance through resonant metasurface-enhanced light trapping.</font>
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "Two-dimensional transition metal dichalcogenides such as WS2 are promising for high-performance photodetectors, but their atomically thin geometry limits optical absorption. Here, we integrate multilayer WS2 with dielect..."
 
 tags:
-- 
-- 
-- 
+- 2D materials
+- photodetectors
+- metasurface
+- light trapping
+- WS2
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 
+links:
+- name: DOI
+  url: https://doi.org/10.1007/s11432-025-4362-7
+url_pdf: https://link.springer.com/content/pdf/10.1007/s11432-025-4362-7.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -82,5 +86,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
