@@ -1,7 +1,7 @@
 ---
-title: "Tunable orbital thermoelectric transport with spin-valley coupling in a monolayer of ferromagnetic transition metal dichalcogenides"
+title: "ReS2/MoSe2 Van der Waals Heterostructure Photodetectors for Polarization Imaging and Polarization-Encoded Optical Communication"
 authors:
-- 于远方
+- 王羽凡
 - Zijie Lai
 - Senyao Tang
 - Jiaxuan Wang
@@ -9,6 +9,7 @@ authors:
 - Shuhan Li
 - Weiqi Wang
 - 赵慧娟
+- 于远方
 - 高丽
 author_notes:
   - ''
@@ -20,8 +21,9 @@ author_notes:
   - ''
   - 'Corresponding Author'
   - 'Corresponding Author'
-date: "2025-07-04T00:00:00Z"
-doi: "https://doi.org/10.1002/smll.202503599"
+  - 'Corresponding Author'
+date: "2025-08-01T00:00:00Z"
+doi: "10.1002/smll.202503599"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-08T00:00:00Z"
