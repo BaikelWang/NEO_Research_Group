@@ -4,14 +4,16 @@ authors:
 - Lanfei Wang
 - Wenqi Wang
 - Qiao Dong
+- Lianhui Wang
 - 高丽
 author_notes:
   - ''
   - ''
   - ''
+  - ''
   - 'Corresponding Author'
 date: "2024-01-29T00:00:00Z"
-doi: "https://doi.org/10.1364/JOSAB.499287"
+doi: "10.1364/JOSAB.499287"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-08T00:00:00Z"
@@ -25,24 +27,22 @@ publication_types: ["article-journal"]
 publication: "*Journal of the Optical Society of America B*"
 publication_short: ""
 
-abstract: <font face='times'>Bound states in the continuum (BIC) can be easily engineered to obtain ultrahigh quality resonances that can greatly enhance sensing and lasing performance, thereby gaining significant attention in the field of nanophotonics. However, the design of high 
- BIC resonances that operates at desired wavelengths always demands significant computational time and resources to scan structural parameters. On the other hand, the deep learning enabled approach is well demonstrated for its revolutionary capability in direct nanophotonic inverse design. Developing a fast and accurate design tool for BIC resonating structures can expediate the design process while maximizing the device performance. However, it is generally challenging to train high 
- resonances in a deep neural network due to their intrinsic non-linearity and complexity. Here, we adopt a simple and classical tandem deep neural network and prove its efficiency in inverse designing BIC resonances at arbitrary wavelengths ranging from 400 to 1200 nm, with 
- factors ranging from a few hundreds to hundreds of thousands. Our approach provides another solid example of applying deep learning tools for designing high performance nanophotonic device for sensing applications.</font>
+abstract: <font face='times'>Bound states in the continuum (BIC) can be easily engineered to obtain ultrahigh quality resonances that can greatly enhance sensing and lasing performance, thereby gaining significant attention in the field of nanophotonics. However, the design of high-Q BIC resonances that operates at desired wavelengths always demands significant computational time and resources to scan structural parameters. On the other hand, the deep learning enabled approach is well demonstrated for its revolutionary capability in direct nanophotonic inverse design. Developing a fast and accurate design tool for BIC resonating structures can expediate the design process while maximizing the device performance. However, it is generally challenging to train high-Q resonances in a deep neural network due to their intrinsic non-linearity and complexity. Here, we adopt a simple and classical tandem deep neural network and prove its efficiency in inverse designing BIC resonances at arbitrary wavelengths ranging from 400 to 1200 nm, with Q factors ranging from a few hundreds to hundreds of thousands. Our approach provides another solid example of applying deep learning tools for designing high performance nanophotonic device for sensing applications.</font>
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "Bound states in the continuum (BIC) can be easily engineered to obtain ultrahigh quality resonances that can greatly enhance sensing and lasing performance, thereby gaining significant attention in the field of nanophoto..."
 
 tags:
-- 
-- 
-- 
+- deep learning
+- bound states in the continuum
+- inverse design
+- nanophotonics
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: DOI
+  url: https://doi.org/10.1364/JOSAB.499287
 url_pdf: 'https://opg.optica.org/josab/viewmedia.cfm?uri=josab-41-2-A146&seq=0'
 url_code: ''
 url_dataset: ''
@@ -71,5 +71,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---

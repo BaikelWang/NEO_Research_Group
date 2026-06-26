@@ -15,7 +15,7 @@ author_notes:
   - ''
   - 'Corresponding Author'
 date: "2023-07-04T00:00:00Z"
-doi: "https://doi.org/10.1364/AO.482433"
+doi: "10.1364/AO.482433"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-08T00:00:00Z"
@@ -32,19 +32,20 @@ publication_short: ""
 abstract: <font face='times'>Spectroscopic technique based on nanophotonic filters can recover spectral information through compressive sensing theory. The spectral information is encoded by nanophotonic response functions and decoded by computational algorithms. They are generally ultracompact, low in cost, and offer single-shot operation with spectral resolution better than 1 nm. Thus, they could be ideally suited for emerging wearable and portable sensing and imaging applications. Previous work has revealed that successful spectral reconstruction relies on well-designed filter response functions with sufficient randomness and low mutual correlation, but no thorough discussion has been performed on the filter array design. Here, instead of blind selection of filter structures, inverse design algorithms are proposed to obtain a photonic crystal filter array with predefined correlation coefficients and array size. Such rational spectrometer design can perform accurate reconstruction for a complex spectrum and maintain the performance under noise perturbation. We also discuss the impact of correlation coefficient and array size on the spectrum reconstruction accuracy. Our filter design method can be extended to different filter structures and suggests a better encoding component for reconstructive spectrometer applications.</font>
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "Spectroscopic technique based on nanophotonic filters can recover spectral information through compressive sensing theory. The spectral information is encoded by nanophotonic response functions and decoded by computation..."
 
 tags:
-- 
-- 
-- 
+- photonic crystal
+- compressive sensing
+- spectrum reconstruction
+- inverse design
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 
+links:
+- name: DOI
+  url: https://doi.org/10.1364/AO.482433
+url_pdf: https://opg.optica.org/ao/viewmedia.cfm?uri=ao-62-8-1907&seq=0
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -72,5 +73,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---

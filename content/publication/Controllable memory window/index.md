@@ -4,8 +4,13 @@ authors:
 - 赵慧娟
 - Jingxuan Ma
 - Shuhan Li
+- Yang Yang
+- Zhangxia Wang
+- Zhongzhong Luo
 - Xiaohan Guo
 - Bing Luo
+- Li Zhu
+- Lianhui Wang
 - 高丽
 author_notes:
   - ''
@@ -13,9 +18,14 @@ author_notes:
   - ''
   - ''
   - ''
+  - ''
+  - ''
+  - ''
+  - 'Corresponding Author'
+  - 'Corresponding Author'
   - 'Corresponding Author'
 date: "2024-04-02T00:00:00Z"
-doi: "https://doi.org/10.1063/5.0187299"
+doi: "10.1063/5.0187299"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-08T00:00:00Z"
@@ -32,19 +42,20 @@ publication_short: ""
 abstract: <font face='times'>Van der Waals (vdW) heterostructures based on inorganic layered materials have been demonstrated as potential candidates for a variety of electronic applications due to their flexibility in energy band engineering. However, the presence of unstable charge-trapping states in atomically thin two-dimensional (2D) materials may limit the performance of devices. Here, we aim to conduct a systematic investigation on hybrid heterostructured memory devices that consist of 2D layered organic and inorganic materials. The objective is to explore the potential of these devices in offering efficient charge-trapping states. Molybdenum disulfide (MoS2) is employed as a channel, while N, N′-Dimethyl-3,4,9,10-perylenedicarboximide (Me-PTCDI) serves as the charge-trapping layer to store charges from MoS2. The hysteresis window of these heterostructured devices can be effectively modified within a range of 13–70 V by manipulating both the thickness of the organic layer and the gate voltages. The largest hysteresis window is found in a combination of a few-layer Me-PTCDI (12.6 nm) and MoS2 (6 nm), showing a high on/off current ratio (>104) and a long retention time (104 s). Furthermore, the endurance test, which lasts for over 1000 cycles, demonstrates an exceptional level of stability and reliability. In addition, multilevel memory effects can be observed when gate pulses with different widths and amplitudes are applied. These 2D hybrid heterostructured devices have the capability to broaden the scope of material systems and present substantial potential for functional neuromorphic applications.</font>
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "Van der Waals (vdW) heterostructures based on inorganic layered materials have been demonstrated as potential candidates for a variety of electronic applications due to their flexibility in energy band engineering. Howev..."
 
 tags:
-- 
-- 
-- 
+- van der Waals heterostructure
+- memory devices
+- MoS2
+- neuromorphic computing
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://marketplace.copyright.com/'
+links:
+- name: DOI
+  url: https://doi.org/10.1063/5.0187299
+url_pdf: https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/5.0187299/19893583/173103_1_5.0187299.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -72,5 +83,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
