@@ -28,9 +28,9 @@ publication_types: ["article-journal"]
 publication: "*Chinese Optics Letters*"
 publication_short: ""
 
-abstract: <font face='times'></font>
+abstract: <font face='times'>The lateral geometry and material property of plasmonic nanostructures are critical parameters for tailoring their optical resonance for sensing applications. While lateral geometry can be easily observed by a scanning electron microscope or an atomic force microscope, characterizing materials properties of plasmonic devices is not straightforward and requires delicate examination of material composition, cross-sectional thickness, and refractive index. In this study, a deep neural network is adopted to characterize these parameters of unknown plasmonic nanostructures through simple transmission spectra. The network architecture is established based on simulated data to achieve accurate identification of both geometric and material parameters. We then demonstrate that the network training by a mixture of simulated and experimental data can result in correct material property recognition. Our work may indicate a simple and intelligent characterization approach to plasmonic nanostructures by spectroscopic techniques.</font>
 
-summary: ""
+summary: "The lateral geometry and material property of plasmonic nanostructures are critical parameters for tailoring their optical resonance for sensing applications. While lateral geometry can be easily observed by a scanning e..."
 
 tags:
 - plasmonics
@@ -40,9 +40,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.3788/col202321.010004
 url_pdf: https://doi.org/10.3788/col202321.010004
 url_code: ''
 url_dataset: ''

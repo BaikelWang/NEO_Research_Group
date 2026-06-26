@@ -42,9 +42,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1039/D3NA00001J
 url_pdf: 'https://pubs.rsc.org/en/content/articlepdf/2023/na/d3na00001j'
 url_code: ''
 url_dataset: ''

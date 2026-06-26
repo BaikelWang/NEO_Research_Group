@@ -56,9 +56,6 @@ tags:
 
 featured: true
 
-links:
-- name: DOI
-  url: https://doi.org/10.1002/aelm.202500001
 url_pdf: https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/aelm.202500001
 url_code: ''
 url_dataset: ''

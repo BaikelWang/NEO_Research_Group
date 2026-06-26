@@ -42,9 +42,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1016/j.sse.2024.109053
 url_pdf: https://doi.org/10.1016/j.sse.2024.109053
 url_code: ''
 url_dataset: ''

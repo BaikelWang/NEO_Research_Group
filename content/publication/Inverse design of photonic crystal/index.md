@@ -42,9 +42,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1364/AO.482433
 url_pdf: https://opg.optica.org/ao/viewmedia.cfm?uri=ao-62-8-1907&seq=0
 url_code: ''
 url_dataset: ''

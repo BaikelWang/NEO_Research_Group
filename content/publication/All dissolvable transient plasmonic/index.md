@@ -32,9 +32,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1088/1361-6528/accf6e
 url_pdf: https://iopscience.iop.org/article/10.1088/1361-6528/accf6e/pdf
 url_code: ''
 url_dataset: ''

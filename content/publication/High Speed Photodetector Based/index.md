@@ -54,9 +54,6 @@ tags:
 
 featured: true
 
-links:
-- name: DOI
-  url: https://doi.org/10.1002/lpor.202400192
 url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/lpor.202400192'
 url_code: ''
 url_dataset: ''

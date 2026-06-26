@@ -68,9 +68,6 @@ tags:
 
 featured: true
 
-links:
-- name: DOI
-  url: https://doi.org/10.1126/sciadv.adw3969
 url_pdf: https://www.science.org/doi/pdf/10.1126/sciadv.adw3969
 url_code: ''
 url_dataset: ''

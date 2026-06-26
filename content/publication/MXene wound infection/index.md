@@ -50,9 +50,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1038/s41528-024-00312-4
 url_pdf: https://www.nature.com/articles/s41528-024-00312-4.pdf
 url_code: ''
 url_dataset: ''

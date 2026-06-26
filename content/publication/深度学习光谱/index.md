@@ -41,9 +41,6 @@ tags:
 - miniature spectrometer
 featured: true
 
-links:
-- name: DOI
-  url: https://doi.org/10.1515/nanoph-2024-0328
 url_pdf: https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0328/pdf?licenseType=open-access
 url_code: ''
 url_dataset: ''

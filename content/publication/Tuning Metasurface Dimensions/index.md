@@ -44,9 +44,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1002/adpr.202200127
 url_pdf: 'https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adpr.202200127'
 url_code: ''
 url_dataset: ''
