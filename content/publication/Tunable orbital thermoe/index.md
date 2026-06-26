@@ -2,12 +2,16 @@
 title: "Tunable orbital thermoelectric transport with spin-valley coupling in a monolayer of ferromagnetic transition metal dichalcogenides"
 authors:
 - 季石磊
+- Jianping Yang
 - 高丽
+- Xing'ao Li
 author_notes:
   - ''
+  - ''
   - 'Corresponding Author'
-date: "2025-07-09T00:00:00Z"
-doi: ""
+  - 'Corresponding Author'
+date: "2025-06-01T00:00:00Z"
+doi: "10.1103/PhysRevB.111.235417"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-08T00:00:00Z"
