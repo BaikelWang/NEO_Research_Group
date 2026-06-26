@@ -49,9 +49,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1063/5.0244991
 url_pdf: https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/5.0244991/20344969/023101_1_5.0244991.pdf
 url_code: ''
 url_dataset: ''

@@ -41,9 +41,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1007/s11432-025-4624-x
 url_pdf: https://link.springer.com/content/pdf/10.1007/s11432-025-4624-x.pdf
 url_code: ''
 url_dataset: ''

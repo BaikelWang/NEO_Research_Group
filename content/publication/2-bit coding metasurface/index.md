@@ -34,9 +34,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1364/oe.501272
 url_pdf: https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-20-32253&seq=0
 url_code: ''
 url_dataset: ''

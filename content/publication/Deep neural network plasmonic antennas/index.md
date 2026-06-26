@@ -44,9 +44,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1364/ome.428772
 url_pdf: https://opg.optica.org/ome/viewmedia.cfm?uri=ome-11-7-1907&seq=0
 url_code: ''
 url_dataset: ''

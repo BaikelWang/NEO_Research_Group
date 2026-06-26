@@ -37,9 +37,6 @@ tags:
 - TMDs
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1103/PhysRevB.111.235417
 url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.111.235417
 url_code: ''
 url_dataset: ''

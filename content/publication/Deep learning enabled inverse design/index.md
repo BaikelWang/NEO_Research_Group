@@ -40,9 +40,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1364/JOSAB.499287
 url_pdf: 'https://opg.optica.org/josab/viewmedia.cfm?uri=josab-41-2-A146&seq=0'
 url_code: ''
 url_dataset: ''

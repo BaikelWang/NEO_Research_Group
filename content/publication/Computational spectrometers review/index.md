@@ -32,9 +32,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1515/nanoph-2021-0636
 url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1515/nanoph-2021-0636
 url_code: ''
 url_dataset: ''

@@ -35,9 +35,6 @@ tags:
 - visible vortex beam
 featured: true
 
-links:
-- name: DOI
-  url: https://doi.org/10.1515/nanoph-2025-0016
 url_pdf: https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0016/pdf?licenseType=open-access
 url_code: ''
 url_dataset: ''

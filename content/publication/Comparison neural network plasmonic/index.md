@@ -28,9 +28,9 @@ publication_types: ["article-journal"]
 publication: "*ACS Omega*"
 publication_short: ""
 
-abstract: <font face='times'></font>
+abstract: <font face='times'>The merge between nanophotonics and a deep neural network has shown unprecedented capability of efficient forward modeling and accurate inverse design if an appropriate network architecture and training method are selected. Commonly, an iterative neural network and a tandem neural network can both be used in the inverse design process, where the latter is well known for tackling the nonuniqueness problem at the expense of more complex architecture. However, we are curious to compare these two networks' performance when they are both applicable. Here, we successfully trained both networks to inverse design the far-field spectrum of plasmonic nanoantenna, and the results provide some guidelines for choosing an appropriate, sufficiently accurate, and efficient neural network architecture.</font>
 
-summary: ""
+summary: "The merge between nanophotonics and a deep neural network has shown unprecedented capability of efficient forward modeling and accurate inverse design if an appropriate network architecture and training method are select..."
 
 tags:
 - deep learning
@@ -40,9 +40,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1021/acsomega.1c02165
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acsomega.1c02165
 url_code: ''
 url_dataset: ''

@@ -48,9 +48,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1002/adma.201902039
 url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.201902039
 url_code: ''
 url_dataset: ''

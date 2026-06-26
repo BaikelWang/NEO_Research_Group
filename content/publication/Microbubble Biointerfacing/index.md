@@ -44,9 +44,6 @@ tags:
 
 featured: false
 
-links:
-- name: DOI
-  url: https://doi.org/10.1002/anie.202314583
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.202314583
 url_code: ''
 url_dataset: ''
