@@ -10,6 +10,10 @@ last_name: Ji
 authors:
   - 季石磊
 
+# Old English/bilingual slugs still served by the production host (NEO-era leftovers).
+aliases:
+  - /author/shilei-ji-季石磊/
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -46,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'njuptjishilei@outlook.com'
+    link: 'mailto:njuptjishilei@outlook.com'
  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
