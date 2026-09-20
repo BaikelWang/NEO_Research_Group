@@ -9,7 +9,7 @@ authors:
 - Qiyuan Zhou
 - Tianyi Zhou
 - Yannan Xie
-- 于远方
+- Yuanfang Yu
 - Fengyuan Xuan
 - Zhenhua Ni
 - 高丽
