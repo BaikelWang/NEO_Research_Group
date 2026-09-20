@@ -3,6 +3,9 @@
 title: 主页
 date: 2022-10-24
 type: landing
+# Wowchemy starter profile that remained on the live host after the site was rebuilt.
+aliases:
+  - /author/alice-wu-吳恩達/
 
 sections:
   - block: hero
