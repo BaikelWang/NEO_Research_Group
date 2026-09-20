@@ -36,14 +36,9 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: True
     
-      # Email form provider
+      # Email form provider (disabled: the live host is Caddy/GitHub Pages, not Netlify)
       form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+        provider: ''
     design:
       columns: '1'
 

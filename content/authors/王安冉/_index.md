@@ -10,6 +10,11 @@ last_name: Wang
 authors:
   - 王安冉
 
+# Old English/bilingual slugs still served by the production host (NEO-era leftovers).
+aliases:
+  - /author/anran-wang-王安冉/
+  - /author/anran-wang/
+
 # Is this the primary user of the site?
 superuser: false
 

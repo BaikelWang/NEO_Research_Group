@@ -11,7 +11,7 @@ authors:
 - Weiqi Wang
 - Qiyuan Zhou
 - Fengyuan Xuan
-- 于远方
+- Yuanfang Yu
 - 高丽
 author_notes:
   - ''

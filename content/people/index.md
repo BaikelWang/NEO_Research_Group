@@ -1,6 +1,10 @@
 ---
 title: People
 date: 2022-10-24
+# Former faculty profile and its NEO-era slug; keep paper credits as Yuanfang Yu.
+aliases:
+  - /author/于远方/
+  - /author/yuanfang-yu-于远方/
 
 type: landing
 
