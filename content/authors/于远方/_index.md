@@ -3,12 +3,16 @@
 title: 于远方
 cixu: 1
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yuanfang
+last_name: Yu
 
 # Username (this should match the folder name)
 authors:
   - 于远方
+
+# Old English/bilingual slugs still served by the production host (NEO-era leftovers).
+aliases:
+  - /author/yuanfang-yu-于远方/
 
 # Is this the primary user of the site?
 superuser: false
@@ -44,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'iamyfyu@njupt.edu.cn'
+    link: 'mailto:iamyfyu@njupt.edu.cn'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

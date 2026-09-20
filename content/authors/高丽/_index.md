@@ -11,6 +11,12 @@ cixu: 0
 authors:
   - 高丽
 
+# Old English/bilingual slugs still served by the production host (NEO-era leftovers).
+aliases:
+  - /author/li-gao-高丽/
+  - /author/li-gao/
+  - /author/admin/
+
 # Is this the primary user of the site?
 superuser: true
 

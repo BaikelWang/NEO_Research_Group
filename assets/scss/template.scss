@@ -3,6 +3,12 @@
   text-align: center;
 }
 
+// Keep the NIO wordmark compact in the navbar.
+.navbar-brand img {
+  max-height: 36px;
+  width: auto;
+}
+
 // Center the CTA shortcode button
 .cta-group {
   justify-content: center;
