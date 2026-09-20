@@ -1,7 +1,7 @@
 ---
 title: "Hot-carrier engineering for two-dimensional integrated infrared optoelectronics"
 authors:
-- 于远方
+- Yuanfang Yu
 - Jialin Zhang
 - Lianhui Wang
 - Zhenhua Ni

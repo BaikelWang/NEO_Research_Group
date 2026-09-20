@@ -1,7 +1,7 @@
 ---
 title: "Two-dimensional van der Waals high-speed photodetectors enhanced by surface and interface engineering"
 authors:
-- 于远方
+- Yuanfang Yu
 - Senyao Tang
 - Linjie Yang
 - Quan Li
