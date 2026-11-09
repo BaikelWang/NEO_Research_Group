@@ -16,9 +16,7 @@ superuser: false
 role: 光电信息科学与工程硕士生（2025 级）
 
 # Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -55,10 +53,6 @@ user_groups:
   - Grad Students
 
 ---
+张玉琪，光电信息科学与工程硕士研究生，2025 年进入南京邮电大学材料与工程学院攻读光电信息科学与工程，本科毕业于宁波大学光学工程。目前的研究方向为人工智能辅助预测材料性质。
 
-
-
-
-
-
-
+所在课题组：[NIO 微纳光电集成实验室](https://iamlgao.cn/)，研究方向涵盖光学超表面、二维光电器件与深度学习光学设计。

@@ -16,9 +16,7 @@ superuser: false
 role: 电子信息硕士生（2024 级）
 
 # Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

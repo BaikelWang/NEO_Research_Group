@@ -16,9 +16,7 @@ superuser: false
 role: 物理学博士生（2023 级）
 
 # Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

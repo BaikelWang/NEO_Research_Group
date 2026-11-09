@@ -16,9 +16,7 @@ superuser: false
 role: 物理学博士生（2024 级）
 
 # Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -55,5 +53,6 @@ user_groups:
   - Grad Students
 
 ---
+龚佳欣，物理学博士研究生，2024 年进入南京邮电大学材料与工程学院攻读物理学，本科毕业于南京邮电大学应用物理学专业。目前的研究方向为光电信息物理与器件。
 
-
+所在课题组：[NIO 微纳光电集成实验室](https://iamlgao.cn/)，研究方向涵盖光学超表面、二维光电器件与深度学习光学设计。

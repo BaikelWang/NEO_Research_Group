@@ -16,9 +16,7 @@ superuser: false
 role: 光学工程博士生（2022 级）
 
 # Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

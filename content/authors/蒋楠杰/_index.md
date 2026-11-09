@@ -16,9 +16,7 @@ superuser: false
 role: 光学工程硕士生（2024 级）
 
 # Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -55,6 +53,6 @@ user_groups:
   - Grad Students
 
 ---
+蒋楠杰，光学工程硕士研究生，2024 年进入南京邮电大学材料与工程学院攻读光学工程，本科为工学学士。目前的研究方向为二维红外探测。
 
-
-
+所在课题组：[NIO 微纳光电集成实验室](https://iamlgao.cn/)，研究方向涵盖光学超表面、二维光电器件与深度学习光学设计。

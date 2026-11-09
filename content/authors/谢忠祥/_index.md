@@ -16,9 +16,7 @@ superuser: false
 role: 电子信息硕士生（2025 级）
 
 # Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -55,10 +53,6 @@ user_groups:
   - Grad Students
 
 ---
+谢忠祥，电子信息硕士研究生，2025 年进入南京邮电大学材料与工程学院攻读电子信息，本科毕业于盐城工学院新能源材料与器件。目前的研究方向为拓扑材料在光电领域的优化。
 
-
-
-
-
-
-
+所在课题组：[NIO 微纳光电集成实验室](https://iamlgao.cn/)，研究方向涵盖光学超表面、二维光电器件与深度学习光学设计。

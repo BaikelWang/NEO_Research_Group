@@ -11,13 +11,15 @@ type: landing
 sections:
   - block: people
     content:
-      title: Research group members
+      title: 课题组成员
+      subtitle: 在读成员与已毕业成员
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Professors
           - Researchers
           - Grad Students
+          - Previous graduates
       sort_by: Params.cixu
       sort_ascending: true
     design:

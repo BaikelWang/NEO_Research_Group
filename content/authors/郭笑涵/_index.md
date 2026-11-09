@@ -16,9 +16,7 @@ superuser: false
 role: 光学工程硕士（2024 届）
 
 # Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -52,5 +50,6 @@ user_groups:
   - Previous graduates
 
 ---
+郭笑涵，光学工程硕士，2024 年毕业于南京邮电大学材料与工程学院。研究生期间主要研究方向为光电探测。
 
-
+所在课题组：[NIO 微纳光电集成实验室](https://iamlgao.cn/)，研究方向涵盖光学超表面、二维光电器件与深度学习光学设计。

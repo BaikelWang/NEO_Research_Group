@@ -16,9 +16,7 @@ superuser: false
 role: 硕士（2024 届）
 
 # Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
