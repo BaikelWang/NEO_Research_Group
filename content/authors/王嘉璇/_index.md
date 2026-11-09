@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 光学工程博士
+role: 光学工程博士生（2022 级）
 
 # Organizations/Affiliations
 organizations:

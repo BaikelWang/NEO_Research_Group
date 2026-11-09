@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: 电子信息硕士（2023 届）
 
 # Organizations/Affiliations
 organizations:

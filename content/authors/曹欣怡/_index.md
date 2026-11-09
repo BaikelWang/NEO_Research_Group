@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: 生物电子硕士（2023 届）
 
 # Organizations/Affiliations
 organizations:

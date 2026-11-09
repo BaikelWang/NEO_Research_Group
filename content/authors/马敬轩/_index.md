@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: 硕士（2024 届）
 
 # Organizations/Affiliations
 organizations:

@@ -5,3 +5,9 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# 本地构建与维护工具（不入库）
+_preview/
+_tools/
+_shots/
+_backup/

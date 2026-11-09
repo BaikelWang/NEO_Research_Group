@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: 光电信息科学与工程硕士生（2025 级）
 
 # Organizations/Affiliations
 organizations:

@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: 电子信息硕士生（2024 级）
 
 # Organizations/Affiliations
 organizations:

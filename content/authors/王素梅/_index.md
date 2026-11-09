@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 物理学博士
+role: 物理学博士生（2023 级）
 
 # Organizations/Affiliations
 organizations:

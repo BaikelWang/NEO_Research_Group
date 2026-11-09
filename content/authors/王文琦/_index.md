@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: 光学工程硕士（2023 届）
 
 # Organizations/Affiliations
 organizations:
